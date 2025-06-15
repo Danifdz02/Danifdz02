@@ -33,7 +33,7 @@ Funcionalidades:
 ## 📚 Formación y objetivos
 
 - 🔧 FP DAW (Desarrollo de Aplicaciones Web)
-- 🎓 Próximamente: Programa Avanzado en  DevOps y Cloud (UNIR)
+- 🎓 Próximamente: Curso de especialización en Ciberseguridad en entornos de tecnologias de la información.
 - 📈 Interesado en administración de sistemas, cloud computing y ciberseguridad
 - ⚙️ Disfruto aprendiendo tecnologías nuevas y resolviendo problemas reales
 
