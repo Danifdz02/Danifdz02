@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Daniel Fernández.
 
-Desarrollador web y fanático de la tecnología. Actualmente estoy finalizando mi formación como **Desarrollador de Aplicaciones Web (DAW)** y realizando mis prácticas en **Viewnext (IBM)**, donde trabajo con sistemas legacy como **COBOL** y también participo en proyectos reales de desarrollo y despliegue en la nube.
+Desarrollador web y fanático de la tecnología. 
 
 ---
 
