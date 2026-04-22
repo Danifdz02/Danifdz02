@@ -6,7 +6,7 @@ Desarrollador web y fanático de la tecnología.
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [FitTech](https://fit-tech.xyz) (En proceso...)
+### 🔹 [FitTech](https://fit-tech.xyz) Actualmente no disponible.
 Plataforma web de fitness desarrollada con **React**, **PHP** y **MySQL**, desplegada con **Docker** en **AWS** y conectada a **Amazon RDS**.  
 Funcionalidades:
 - Rutinas de entrenamiento filtradas por grupos musculares y dificultad.
@@ -33,7 +33,7 @@ Funcionalidades:
 ## 📚 Formación y objetivos
 
 - 🔧 FP DAW (Desarrollo de Aplicaciones Web)
-- 🎓 Próximamente: Curso de especialización en Ciberseguridad en entornos de tecnologias de la información.
+- 🎓 Curso de especialización en Ciberseguridad en entornos de tecnologias de la información.
 - 📈 Interesado en administración de sistemas, cloud computing y ciberseguridad
 - ⚙️ Disfruto aprendiendo tecnologías nuevas y resolviendo problemas reales
 
