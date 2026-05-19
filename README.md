@@ -16,6 +16,7 @@ Funcionalidades:
 - Sistema de noticias gestionado por admin.
 
 ### 🧪 Otros proyectos
+- **Selvomania**: Web desarrollada para parque infantil cubierto en Huércal de Almería.
 - **Surprise Trip App**: aplicación React para organizar viajes sorpresa.
 - **Gestor de turnos para Viewnext** (propuesta): herramienta para organizar vacaciones, días libres y turnos por departamento.
 - **Aplicación veterinaria** : Aplicación desarrollada para gestionar vacunas y detalles de animales que asisten a un veterinario.
