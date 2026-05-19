@@ -6,7 +6,7 @@ Desarrollador web y fanático de la tecnología.
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [FitTech](https://fit-tech.xyz) Actualmente no disponible.
+### 🔹 [FitTech](https://fit-tech.xyz) Actualmente enlace no disponible.
 Plataforma web de fitness desarrollada con **React**, **PHP** y **MySQL**, desplegada con **Docker** en **AWS** y conectada a **Amazon RDS**.  
 Funcionalidades:
 - Rutinas de entrenamiento filtradas por grupos musculares y dificultad.
@@ -16,7 +16,7 @@ Funcionalidades:
 - Sistema de noticias gestionado por admin.
 
 ### 🧪 Otros proyectos
-- **Selvomania**: Web desarrollada para parque infantil cubierto en Huércal de Almería.
+- **[Selvomania](https://selvomania.pages.dev)**: Web desarrollada para parque infantil cubierto en Huércal de Almería.
 - **Surprise Trip App**: aplicación React para organizar viajes sorpresa.
 - **Gestor de turnos para Viewnext** (propuesta): herramienta para organizar vacaciones, días libres y turnos por departamento.
 - **Aplicación veterinaria** : Aplicación desarrollada para gestionar vacunas y detalles de animales que asisten a un veterinario.
