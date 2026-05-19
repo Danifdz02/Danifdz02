@@ -24,8 +24,8 @@ Funcionalidades:
 
 ## 🛠️ Tecnologías
 
-**Frontend:** React, Vite, Tailwind, Framer Motion  
-**Backend:** PHP, MySQL, REST APIs  
+**Frontend:** React, Vite, Tailwind, JavaScript, Framer Motion  
+**Backend:** PHP, Java, MySQL, REST APIs  
 **DevOps:** Docker, Apache, AWS EC2 + RDS, certificados HTTPS (Let's Encrypt)  
 **Otras:** Git, GitHub, XAMPP, phpMyAdmin, Workbench, Stripe API, Figma
 
