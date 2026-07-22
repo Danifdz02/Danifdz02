@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy Daniel Fernández.
-Desarrollador web y fanático de la tecnología. 
+## Desarrollador web y fanático de la tecnología. 
 ---
 ## 🚀 Proyectos destacados
 ### 🔹 [EvoluFit](https://www.evolufit.es) 
