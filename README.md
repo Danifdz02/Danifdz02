@@ -3,7 +3,7 @@ Desarrollador web y fanático de la tecnología.
 ---
 ## 🚀 Proyectos destacados
 ### 🔹 [EvoluFit](https://www.evolufit.es) 
-Plataforma web de fitness (PWA) desarrollada con **React 18 + Vite** en el frontend y una API **Node + Express + TypeScript + Prisma** con base de datos **MySQL**.  
+Plataforma web de fitness desarrollada con **React + Vite** en el frontend y una API **Node + Express + TypeScript + Prisma** con base de datos **MySQL**.  
 Funcionalidades:
 - Catálogo de ejercicios con técnica y rutinas predefinidas y propias, con entrenamiento guiado y registro de progreso.
 - Registro/login con roles (`normal`, `premium`, `admin`) y suscripciones **premium** integradas con **Stripe**.
@@ -12,7 +12,7 @@ Funcionalidades:
 - Sistema de noticias gestionado por admin.
 
 ### 🔹 Sistema de gestión de almacén por kilos para cooperativas agrícolas
-Aplicación web para el control de entradas y salidas de producto por calibre y almacén en tiempo real, desarrollada con **Java 21**, **Spring Boot** y **React**, con base de datos **SQL Server**.  
+Aplicación web para el control de entradas y salidas de producto por calibre y almacén en tiempo real, desarrollada con **Java**, **Spring Boot** y **React**, con base de datos **SQL Server**.  
 Funcionalidades:
 - Registro de entradas/salidas de stock con reparto automático (FIFO) y control transaccional.
 - Escaneo de partidas con pistola de código de barras y generación de etiquetas en **PDF** (iText).
