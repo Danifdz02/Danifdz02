@@ -7,7 +7,6 @@ Plataforma web de fitness (PWA) desarrollada con **React 18 + Vite** en el front
 Funcionalidades:
 - Catálogo de ejercicios con técnica y rutinas predefinidas y propias, con entrenamiento guiado y registro de progreso.
 - Registro/login con roles (`normal`, `premium`, `admin`) y suscripciones **premium** integradas con **Stripe**.
-- **Entrenador con IA** (Claude) restringido a fitness, personalizado con el contexto real del usuario y con límite de uso por plan.
 - Generador de rutinas, sistema de logros y rachas, y calculadoras interactivas (IMC, 1RM, gasto calórico).
 - Zonas públicas de calistenia al aire libre con equipamiento y rutina recomendada.
 - Sistema de noticias gestionado por admin.
