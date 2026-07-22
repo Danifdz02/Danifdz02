@@ -1,13 +1,15 @@
-## Desarrollador web y fanático de la tecnología. 
+# 👋 ¡Hola! Soy Daniel Fernández.
+Desarrollador web y fanático de la tecnología. 
 ---
 ## 🚀 Proyectos destacados
 ### 🔹 [EvoluFit](https://www.evolufit.es) 
-Plataforma web de fitness desarrollada con **React**, **PHP** y **MySQL**, desplegada con **Docker** en **AWS** y conectada a **Amazon RDS**.  
+Plataforma web de fitness (PWA) desarrollada con **React 18 + Vite** en el frontend y una API **Node + Express + TypeScript + Prisma** con base de datos **MySQL**.  
 Funcionalidades:
-- Rutinas de entrenamiento filtradas por grupos musculares y dificultad.
-- Registro/login con roles (`normal`, `premium`, `admin`) y suscripciones integradas con **Stripe**.
-- Herramientas interactivas (IMC, 1RM, gasto calórico).
-- Zonas de calistenia en mapa + vista con Google Maps.
+- Catálogo de ejercicios con técnica y rutinas predefinidas y propias, con entrenamiento guiado y registro de progreso.
+- Registro/login con roles (`normal`, `premium`, `admin`) y suscripciones **premium** integradas con **Stripe**.
+- **Entrenador con IA** (Claude) restringido a fitness, personalizado con el contexto real del usuario y con límite de uso por plan.
+- Generador de rutinas, sistema de logros y rachas, y calculadoras interactivas (IMC, 1RM, gasto calórico).
+- Zonas públicas de calistenia al aire libre con equipamiento y rutina recomendada.
 - Sistema de noticias gestionado por admin.
 
 ### 🔹 Sistema de gestión de almacén por kilos para cooperativas agrícolas
@@ -27,10 +29,10 @@ Funcionalidades:
 - **Aplicación veterinaria** : Aplicación desarrollada para gestionar vacunas y detalles de animales que asisten a un veterinario.
 ---
 ## 🛠️ Tecnologías
-**Frontend:** React, Vite, Tailwind, JavaScript, Framer Motion  
-**Backend:** PHP, Java, Spring Boot, MySQL, SQL Server, REST APIs  
-**DevOps:** Docker, Apache, AWS EC2 + RDS, Raspberry Pi, certificados HTTPS (Let's Encrypt)  
-**Otras:** Git, GitHub, XAMPP, phpMyAdmin, Workbench, Stripe API, Figma
+**Frontend:** React, Vite, PWA, JavaScript, Framer Motion  
+**Backend:** Node.js, Express, TypeScript, Java, Spring Boot, Prisma, MySQL, SQL Server, REST APIs  
+**DevOps:** Docker, cPanel, Caddy, Raspberry Pi, certificados HTTPS (Let's Encrypt)  
+**Otras:** Git, GitHub, Stripe API, Anthropic (Claude) API, Figma
 ---
 ## 📚 Formación y objetivos
 - 🔧 FP DAW (Desarrollo de Aplicaciones Web)
@@ -40,5 +42,4 @@ Funcionalidades:
 ---
 ## 📱 Redes y contacto
 - Correo: `danieldfm02@gmail.com`
-- Portfolio: [daniifdez.xyz](https://danifdez.xyz/)
-
+- Portfolio: [danifdez.xyz](https://danifdez.xyz/)
