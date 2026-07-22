@@ -27,18 +27,18 @@ Funcionalidades:
 - **Gestor de turnos para Viewnext** (propuesta): herramienta para organizar vacaciones, días libres y turnos por departamento.
 - **Aplicación veterinaria** : Aplicación desarrollada para gestionar vacunas y detalles de animales que asisten a un veterinario.
 ---
-## 🛠️ Tecnologías
-**Frontend:** React, Vite, PWA, JavaScript, Framer Motion  
-**Backend:** Node.js, Express, TypeScript, Java, Spring Boot, Prisma, MySQL, SQL Server, REST APIs  
-**DevOps:** Docker, cPanel, Caddy, Raspberry Pi, certificados HTTPS (Let's Encrypt)  
-**Otras:** Git, GitHub, Stripe API, Anthropic (Claude) API, Figma
+### 🛠️ Tecnologías
+- **Frontend:** React, Vite, PWA, JavaScript, Framer Motion  
+- **Backend:** Node.js, Express, TypeScript, Java, Spring Boot, Prisma, MySQL, SQL Server, REST APIs  
+- **DevOps:** Docker, cPanel, Caddy, Raspberry Pi, certificados HTTPS (Let's Encrypt)  
+- **Otras:** Git, GitHub, Stripe API, Anthropic (Claude) API, Figma
 ---
-## 📚 Formación y objetivos
+### 📚 Formación y objetivos
 - 🔧 FP DAW (Desarrollo de Aplicaciones Web)
 - 🎓 Curso de especialización en Ciberseguridad en entornos de tecnologias de la información.
 - 📈 Interesado en administración de sistemas, cloud computing y ciberseguridad
 - ⚙️ Disfruto aprendiendo tecnologías nuevas y resolviendo problemas reales
 ---
-## 📱 Redes y contacto
+### 📱 Redes y contacto
 - Correo: `danieldfm02@gmail.com`
 - Portfolio: [danifdez.xyz](https://danifdez.xyz/)
