@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Daniel Fernández</h1>
 <p align="center">
-  <b>Desarrollador Full-Stack</b> · React · Node.js · Java/Spring Boot · Sistemas y Ciberseguridad<br>
+  <b>Desarrollador Full-Stack</b> · React · Node.js · Java/Spring Boot · IA aplicada · Ciberseguridad<br>
   📍 Almería, España
 </p>
 
@@ -16,7 +16,7 @@
 
 Desarrollador full-stack con experiencia construyendo aplicaciones web de punta a punta: desde el frontend en React hasta APIs, bases de datos, despliegue y hardware en planta. He trabajado en software de gestión y trazabilidad para el sector agrícola y actualmente me dedico a tiempo completo a desarrollar y lanzar mis propios productos digitales.
 
-Me interesan especialmente la **administración de sistemas**, el **cloud** y la **ciberseguridad**.
+Me interesa sobre todo **desarrollar aplicaciones**, **automatizar procesos con IA** (agentes, LLMs e integraciones con APIs de modelos) y la **ciberseguridad**.
 
 ---
 
@@ -120,6 +120,14 @@ Web para un parque de bolas y cumpleaños en Almería.
 - 🎓 **Curso de Especialización en Ciberseguridad** en Entornos de las Tecnologías de la Información
 - 🔧 **CFGS Desarrollo de Aplicaciones Web (DAW)**
 
+---
+
+## 🎯 Ahora mismo
+
+- 🚀 Haciendo crecer **Cazatimos** y preparando el lanzamiento de **EvoluFit** en Play Store y App Store.
+- 🤖 Aprendiendo a construir agentes y automatizaciones con LLMs, y aplicando la IA a mis propios productos.
+- 🔐 Profundizando en ciberseguridad aplicada al desarrollo.
+- 🤝 Abierto a nuevas oportunidades y proyectos freelance — [escríbeme](mailto:danieldfm02@gmail.com).
 ---
 
 ## 🎯 Ahora mismo
