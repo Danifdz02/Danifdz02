@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Daniel Fernández</h1>
+<h1 align="center">Daniel Fernández Muñoz</h1>
 <p align="center">
   <b>Desarrollador Full-Stack</b> · React · Node.js · Java/Spring Boot · IA aplicada · Ciberseguridad<br>
   📍 Almería, España
